@@ -1,6 +1,6 @@
 Reactor_Implemention
 ====================
-This is a simple implementation of reactor which use epoll as the IO multiplexer and the min-heap as the manage container of timed-task. If you want to use it in industrial environment, i think the "ACE" is best solution.
+This is a simple implementation of reactor which use epoll as the event multiplexer and the min-heap as the manage container of timed-task. If you want to use it in industrial environment, i think the "ACE" is best solution.
 
 You can compile the code by using the following shell command:
 
