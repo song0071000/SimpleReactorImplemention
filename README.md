@@ -4,8 +4,10 @@ This is a simple implementation of reactor which use epoll as the event multiple
 
 You can compile the code by using the following shell command:
 
->cmake .
->cd ./bin
+```linux
+cmake .
+cd ./bin
+```
 
 After that, two executable programs will be made.
 
